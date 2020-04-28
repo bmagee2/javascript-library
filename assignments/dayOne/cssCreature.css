@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(68, 172, 233);
+}
+
+.wrapper{
+    margin: auto;
+}
+
+.shark {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border-radius: 400px 400px 0px 0px;
+    background-color: lightslategray;
+}
